@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Computer Science, University of Glasgow
+subtitle: PhD Student in Computing Science, University of Glasgow
 
 profile:
   align: right
@@ -22,8 +22,10 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in Computer Science at the [University of Glasgow](https://www.gla.ac.uk), where I work on [YOUR RESEARCH AREA — e.g. "recommender systems and information retrieval"]. My research focuses on [1–2 sentences on your specific research problem or approach].
+I am a motivated Data Scientist and Machine Learning Engineer with expertise in deep learning, computer vision, and biomedical image and signal analysis. I am passionate about translating cutting-edge AI research into practical healthcare applications.
 
-Before starting my PhD, I [1–2 sentences on your background — previous degree, where, any relevant prior work/research].
+I am currently pursuing a PhD in Computing Science at the [University of Glasgow](https://www.gla.ac.uk), where my research focuses on cardiac motion estimation from cine cardiac MRI (CMR) using Bayesian deep learning, 3D mesh modelling, and generative AI.
 
-My research interests include [LIST 3–6 KEYWORDS, e.g. machine learning, natural language processing, computer vision, etc.].
+My previous work includes AI-driven diagnosis of depression and mild cognitive impairment, deep learning for sperm segmentation, and medical image watermarking.
+
+My research interests include medical image processing, biomedical signal processing, AI in healthcare, computer vision, deep learning, and machine learning.
