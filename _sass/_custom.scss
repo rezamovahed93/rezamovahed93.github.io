@@ -1,1 +1,10 @@
-profile picture img { max-width: 400px !important; width: 100% !important; } @media (min-width: 930px) { .profile picture img { max-width: 400px !important; } }
+.profile picture img {
+  max-width: 400px !important;
+  width: 100% !important;
+}
+
+@media (min-width: 930px) {
+  .profile picture img {
+    max-width: 400px !important;
+  }
+}
