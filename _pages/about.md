@@ -6,7 +6,7 @@ subtitle: PhD Student in Computing Science, University of Glasgow
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: GitHubProfile.JPG
   image_circular: false
   more_info: >
     <p>University of Glasgow</p>
