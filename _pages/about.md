@@ -9,7 +9,7 @@ profile:
   image: GitHubProfile.JPG
   image_circular: false
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
