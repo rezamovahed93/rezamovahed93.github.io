@@ -19,14 +19,15 @@ latest_posts:
   enabled: false
 ---
 <style>
-.profile picture img {
-  max-width: 400px !important;
-  width: 100% !important;
+.profile,
+.profile figure {
+  width: 400px !important;
 }
-@media (min-width: 930px) {
-  .profile picture img {
-    max-width: 400px !important;
-  }
+
+.profile picture img {
+  width: 400px !important;
+  max-width: 400px !important;
+  height: auto !important;
 }
 </style>
 I am a motivated Data Scientist and Machine Learning Engineer with expertise in deep learning, computer vision, and biomedical image and signal analysis. I am passionate about translating cutting-edge AI research into practical healthcare applications.
