@@ -32,7 +32,7 @@
     {
       "name": "University of Glasgow",
       "position": "Graduate Teaching Assistant",
-      "location": "Glasgow, United Kingdom",
+      "location": "Glasgow, UK",
       "startDate": "2024-08-01",
       "summary": "Graduate Teaching Assistant for the courses Introduction to Data Science and Systems, Machine Learning and Artificial Intelligence for Data Scientists, and Text as Data."
     },
@@ -56,23 +56,20 @@
   "education": [
     {
       "institution": "University of Glasgow",
-      "area": "Computing Science",
-      "studyType": "PhD",
+      "studyType": "PhD in Computing Science",
       "startDate": "2023-09-01",
       "summary": "Thesis title: Bayesian Deep Atlases for Cardiac Motion Abnormality Assessment by Integrating Imaging and Metadata."
     },
     {
       "institution": "Tarbiat Modares University",
-      "area": "Biomedical Engineering",
-      "studyType": "M.Sc.",
+      "studyType": "M.Sc. in Biomedical Engineering",
       "startDate": "2016-09-01",
       "endDate": "2019-06-30",
       "summary": "Thesis title: Human sperm segmentation in microscopic images using deep learning techniques."
     },
     {
       "institution": "Buali-Sina University",
-      "area": "Electronic Engineering",
-      "studyType": "B.Sc.",
+      "studyType": "B.Sc. in Electronic Engineering",
       "startDate": "2011-09-01",
       "endDate": "2016-06-30",
       "summary": "Thesis title: Study and research about ECU and vehicle electronic control systems."
