@@ -8,9 +8,6 @@ profile:
   align: right
   image: GitHubProfile.JPG
   image_circular: false
-  more_info: >
-    <p>University of Glasgow</p>
-    <p>School of Computing Science</p>
 
 selected_papers: true
 social: true
