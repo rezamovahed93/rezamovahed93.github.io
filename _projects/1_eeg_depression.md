@@ -6,10 +6,9 @@ img: assets/img/eeg_depression_diagram.png
 importance: 1
 category: research
 ---
+{% include figure.liquid path="assets/img/eeg_depression_diagram.png" title="EEG-based MDD diagnosis pipeline" class="img-fluid rounded z-depth-1" %}
 
 Major depressive disorder (MDD) is typically diagnosed through questionnaire-based clinical assessments, which can be subjective and may not always lead to an accurate diagnosis. This line of work explores how electroencephalogram (EEG) signals — an objective, non-invasive, and cost-effective measure of brain activity — can be combined with machine learning and deep learning to build more reliable, automated MDD diagnostic tools.
-
-{% include figure.liquid path="assets/img/eeg_depression_diagram.png" title="EEG-based MDD diagnosis pipeline" class="img-fluid rounded z-depth-1" %}
 
 The work progressed across three studies:
 
