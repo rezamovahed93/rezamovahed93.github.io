@@ -32,7 +32,7 @@ latest_posts:
 </style>
 I am a motivated Data Scientist and Machine Learning Engineer with expertise in deep learning, computer vision, and biomedical image and signal analysis. I am passionate about translating cutting-edge AI research into practical healthcare applications.
 
-I am currently pursuing a PhD in Computing Science at the [University of Glasgow](https://www.gla.ac.uk), where my research focuses on cardiac motion estimation from cine cardiac MRI (CMR) using Bayesian deep learning, 3D mesh modelling, and generative AI.
+I am currently pursuing a PhD in Computing Science at the [University of Glasgow](https://www.gla.ac.uk/pgrs/rezaakbarimovahed/), where my research focuses on cardiac motion estimation from cine cardiac MRI (CMR) using Bayesian deep learning, 3D mesh modelling, and generative AI.
 
 My previous work includes AI-driven diagnosis of depression and mild cognitive impairment, deep learning for sperm segmentation, and medical image watermarking.
 
